@@ -10,7 +10,7 @@
 <p>
   👋&nbsp; Hi there?? I'm <b>Web developer</b><br/>
   I have experience 2 years of web<br/>
-  At present, I have been learn React(current 40%..}<br/>
+  At present, I have been learn React, Next js<br/>
   I enjoy hiphop and japan subculture 🥶<br/>
   I hope to learn the every thing in world🤗<br/><br/>
 </p>
