@@ -31,6 +31,8 @@
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=fentboijun&show_icons=true&theme=blue_navy )
+[![Solved.ac
+profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=fuyukawakazuyuki)](https://solved.ac/fuyukawakazuyuki)
 
 ![](./profile-3d-contrib/profile-night-rainbow.svg)
 ![snake gif](https://github.com/fentboijun/fentboijun/blob/output/github-contribution-grid-snake.svg)
