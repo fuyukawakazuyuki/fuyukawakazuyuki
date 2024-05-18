@@ -31,6 +31,7 @@
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=fentboijun&show_icons=true&theme=blue_navy )
+<br/>
 [![Solved.ac
 profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=fuyukawakazuyuki)](https://solved.ac/fuyukawakazuyuki)
 
