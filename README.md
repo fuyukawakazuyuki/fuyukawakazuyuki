@@ -1,10 +1,7 @@
 
-![rect](https://capsule-render.vercel.app/api?type=rect&color=gradient&text=%20%20WELCOME!😶%20%20&fontAlign=30&fontSize=30&textBg=true&desc=FENTBOIJUN's%27Github&descAlign=60&descAlignY=50)
-
-
 ### ✨HELLO,　안녕하세요,　こんにちは！
 <p>
-  <a href="mailto:fentboijun@gmail.com" target="_blank"><img src="https://img.shields.io/badge/fentboijun@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
+  <a href="mailto:fuyukawakazuyuki@gmail.com" target="_blank"><img src="https://img.shields.io/badge/fentboijun@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
 </p>
 
 <p>
