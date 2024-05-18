@@ -1,7 +1,7 @@
 
 ### ✨HELLO,　안녕하세요,　こんにちは！
 <p>
-  <a href="mailto:fuyukawakazuyuki@gmail.com" target="_blank"><img src="https://img.shields.io/badge/fentboijun@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
+  <a href="mailto:fuyukawakazuyuki@gmail.com" target="_blank"><img src="https://img.shields.io/badge/fuyukawakazuyki@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
 </p>
 
 <p>
