@@ -29,7 +29,7 @@
 <table width="100%">
   <tr>
     <td align="center">
-  [![Solved.ac
+  ![Solved.ac
 profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=fuyukawakazuyuki)](https://solved.ac/fuyukawakazuyuki)
     </td>
     <td>
