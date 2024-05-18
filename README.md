@@ -40,6 +40,5 @@
     </td>
   </tr>
 </table>
-![](./profile-3d-contrib/profile-night-rainbow.svg)
-![snake gif](https://github.com/fentboijun/fentboijun/blob/output/github-contribution-grid-snake.svg)
+
 
