@@ -30,7 +30,7 @@
   <tr>
     <td align="center">
       <a href="https://github.com/fuyukawakazuyuki/github-readme-stats">
-        <img align="center" src="https://github-readme-stats.vercel.app/api?username=fuyukawakazuyuki&show_icons=true&bg_color=35,87BEFF,FFFFFF,83DAFF&icon_color=FFFFFF&title_color=000000&text_color=626262" alt="fuyukawakazuyuki's GitHub stats" />
+        <img align="center" src="https://github-readme-stats.vercel.app/api?username=fuyukawakazuyuki&show_icons=true&bg_color=35,87BEFF,FFFFFF,83DAFF&icon_color=FFFFFF&title_color=000000&text_color=383838" alt="fuyukawakazuyuki's GitHub stats" />
       </a>
     </td>
     <td>
