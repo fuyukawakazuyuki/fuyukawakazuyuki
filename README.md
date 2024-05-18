@@ -29,15 +29,17 @@
 <table width="100%">
   <tr>
     <td align="center">
-  ![Solved.ac
-profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=fuyukawakazuyuki)](https://solved.ac/fuyukawakazuyuki)
+      <a href="https://github.com/fuyukawakazuyuki/github-readme-stats">
+        <img align="center" src="https://github-readme-stats.vercel.app/api?username=fuyukawakazuyuki&show_icons=true&theme=tokyonight" alt="fuyukawakazuyuki's GitHub stats" />
+      </a>
     </td>
     <td>
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=fentboijun&show_icons=true&theme=blue_navy )
+  <a href="https://solved.ac/fuyukawakazuyuki/">
+    <img align="center" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=fuyukawakazuyuki" alt="Solved.ac Profile" />
+  </a>
     </td>
   </tr>
 </table>
-
 ![](./profile-3d-contrib/profile-night-rainbow.svg)
 ![snake gif](https://github.com/fentboijun/fentboijun/blob/output/github-contribution-grid-snake.svg)
 
