@@ -30,7 +30,7 @@
   <tr>
     <td align="center">
       <a href="https://github.com/fuyukawakazuyuki/github-readme-stats">
-        <img align="center" src="https://github-readme-stats.vercel.app/api?username=fuyukawakazuyuki&show_icons=true&theme=tokyonight" alt="fuyukawakazuyuki's GitHub stats" />
+        <img align="center" src="https://github-readme-stats.vercel.app/api?username=fuyukawakazuyuki&show_icons=true&theme=custom_gradient" alt="fuyukawakazuyuki's GitHub stats" />
       </a>
     </td>
     <td>
